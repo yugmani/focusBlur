@@ -1,5 +1,5 @@
 # focusBlur
-
+## Focus and Blur Events
 1. Create an HTML page. Add the necessary script tags to point to an external javascript file. Add code so that there is a text box for a phone number with an id of "pn and text area for an address. Beside the phone number text box, there will be an empty span tag with an id of "reminder".  
 
 2. Create an external Javascript file. Get the "pn" and "reminder" elements by their ids and assign them to the variables. 
